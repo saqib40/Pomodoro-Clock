@@ -108,3 +108,7 @@ span {
   color: white;
   background-color: transparent;
 }
+
+button{
+  cursor: pointer;
+}
